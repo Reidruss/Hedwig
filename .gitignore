@@ -3,3 +3,11 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.idea/
+.vs/
+*.user
+*.suo
+__pycache__/
+.env
+.env.*
+!.env.example
